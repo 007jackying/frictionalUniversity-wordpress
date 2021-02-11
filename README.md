@@ -3,6 +3,6 @@ This is a University  web site built from scratch using wordpress developement. 
 
 To setup this web application on your local machine:
 1. install Local WordPress developement tools by download from https://localwp.com/. 
-2. create new site and replace the files with the files in teng-hong-lee folder.
+2. create new site and replace the files with the files in teng-hong-lee folder. OR you can import this folder into the site you have created.
 3. start site on local tool and visit the site.
 
